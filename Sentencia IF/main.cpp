@@ -54,10 +54,13 @@ int main()
     }*/
     /*Ejemplo 2: Con el programa anterior cambie la condicion para que todos
     los numeros excepto el 10 ganen un premio*/
+    /*
  int numero=0;
     cout<<"Ingrese un numero para saber si gana el premio:";cin>>numero;
     if(numero!=10){
       cout<<"Felicidades Gano!!"<<endl;
-    }
+    }*/
+
+
     return 0;
 }
