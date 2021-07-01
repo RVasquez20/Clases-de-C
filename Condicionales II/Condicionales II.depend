@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625172938 source:c:\users\rodri\documents\github\clases-de-c-impartidas-a-fidra-garcia\condicionales ii\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+
