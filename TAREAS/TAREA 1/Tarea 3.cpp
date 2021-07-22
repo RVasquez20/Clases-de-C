@@ -57,7 +57,7 @@ int main (){
 	cout <<ed<<"          EJERCICIO 8                 "                                                                                <<ed<<endl;
 	cout <<ed<<"          EJERCICIO 9                 "                                                                                <<ed<<endl;
 	cout <<ed<<"          EJERCICIO 10                "                                                                                <<ed<<endl;
-	cout <<ed<<"          ESC)SALIR                       "                                                                                <<ed<<endl;                            
+	cout <<ed<<"          ESC)SALIR                   "                                                                                <<ed<<endl;                            
 	cout <<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<ed<<""<<endl;
 
 	cout << "INGRESE UNA OPCION:"; cin >> opcmenu;
